@@ -1,32 +1,32 @@
 {
   "test_preprocess": {
-    "vocab_length": 1803
+    "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8237,
-    "french_3_gram_length": 8284,
-    "spanish_3_gram_length": 8467
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 11.327861274892665,
-    "en_fr": 85.06172759378562,
-    "en_tl": 134.35576416116876,
-    "en_nl": 82.07239120575233
+    "en_en": 20.63914227910796,
+    "en_fr": 56.57486058755216,
+    "en_tl": 100.61336082767463,
+    "en_nl": 90.17898937427785
   },
   "test_match": {
-    "en_en_3": 11.214514092663682,
-    "en_tl_3": 143.14488029119372,
-    "en_nl_3": 85.6017297468229
+    "en_en_3": 9.367302024740138,
+    "en_tl_3": 364.3386959032166,
+    "en_nl_3": 441.0160899313308
   },
   "test_generate": {
     "english_1_gram": "I",
-    "english_2_gram": "I amoulpeginShmee bie ae",
-    "english_3_gram": "I amit: Lynmkm ways.\u219e",
-    "english_4_gram": "I Love gifts @OndMade a no",
-    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
-    "spanish_3_gram": "Soy orbe\u219e",
-    "french_2_gram": "Je suis:/opapropades tprisl",
-    "french_3_gram": "Je suis tune\u219e"
+    "english_2_gram": "I amorioo/jon IPAfar @Ge",
+    "english_3_gram": "I amSo Obain dow your da",
+    "english_4_gram": "I LoveCarte: I looks to to",
+    "spanish_2_gram": "Soyo Lis AKCHantesownda",
+    "spanish_3_gram": "Soy quien un Banue crei",
+    "french_2_gram": "Je suis: \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u219e",
+    "french_3_gram": "Je suismes://t.compluivent "
   }
 }
